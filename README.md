@@ -11,6 +11,13 @@ This JavaScript file includes implementations of various interactive features fo
 - [Contributing](#contributing)
 - [License](#license)
 
+##video
+
+https://github.com/PDARSHIL312/Bankist-APP/assets/137078389/09ae8b30-1a28-4645-828c-cfb319daa2f3
+
+
+
+
 ## Overview
 
 This repository contains JavaScript code that implements interactive elements such as modal windows, sticky navigation, tabbed content, scroll-to-top button, and more. These features aim to make the web page dynamic and user-friendly.
